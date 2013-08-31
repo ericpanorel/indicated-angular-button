@@ -15,7 +15,7 @@ Implementation of a directive for a button with a busy indicator using <a href='
 <h3>HTML</h3>
     
     ....
-    <div class="row" data-ng-controller="qtestController as vm" ng-cloak>>
+    <div class="row" data-ng-controller="qtestController as vm" ng-cloak>
         <h1>Q Experiments</h1>
         <form class="form-inline" role="form">
     
